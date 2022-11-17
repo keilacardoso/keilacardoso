@@ -19,8 +19,6 @@
   <img aling="center" alt="Keila-Java" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img aling="center" alt="Keila-Dart" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img aling="center" alt="Keila-Flutter" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img aling="center" alt="Keila-Knockout" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/knockout/knockout-plain-wordmark.svg">
-  <img aling="center" alt="Keila-Oracle" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>  
  
  ##
